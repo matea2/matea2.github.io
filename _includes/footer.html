@@ -1,0 +1,25 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+	    {%- assign twitter_username = site.minima.social_links.twitter | cgi_escape | escape -%}
+	    {%- assign github_username = site.minima.social_links.github | cgi_escape | escape -%}
+        {%- if twitter_username -%}<a href="https://twitter.com/{{ twitter_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>{%- endif -%}
+        {%- if github_username -%}<a href="https://github.com/{{ github_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a>{%- endif -%}
+      </div>
+
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <a href="{{ 'feed.xml' | relative_url }}">feed</a>
+        <a href="{{ "/" | relative_url }}">home</a>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

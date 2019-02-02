@@ -1,0 +1,52 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.page-content h1 {
+	margin-top: 3em;
+	font-size: 150%;
+}
+
+.page-content .author {
+	color: grey;
+	text-align: end;
+}
+
+
+.post-content h1 {
+	margin-top: 3em;
+}
+
+.post-content ul,ol {
+	margin-bottom: 3em;
+}
+
+.post-content div.highlight {
+	margin-bottom: 3em;
+}
+
+
+.post-meta {
+	text-align: end;
+}
+
+.footer-col-3 {
+	text-align: end;
+}
+
+.pagination {
+	text-align:center;
+	margin-top:5em;
+}
+
+
+.home_comment {
+	color: grey;
+	font-size: 80%;
+	margin-bottom: 3em;
+}
+
+.home_post {
+}
