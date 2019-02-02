@@ -1,1 +1,26 @@
-theme: jekyll-theme-slate
+# Build settings
+markdown: kramdown
+encoding: utf-8
+
+# jekyll-seo-tag
+title: matea2 blog
+description: matea2のブログ
+url: https://matea2.github.io
+author: matea2
+lang: ja
+
+# minima
+theme: minima
+minima:
+  date_format: "%F"
+  social_links:
+    twitter: matea2
+    github: matea2
+
+
+plugins:
+  - jekyll-paginate
+
+# jekyll-paginate
+paginate: 5
+paginate_path: /page/:num/
