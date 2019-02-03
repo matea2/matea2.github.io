@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 5
-paginate_path: blog/page:num/
+paginate_path: /blog/page:num/
 ```
 
 
