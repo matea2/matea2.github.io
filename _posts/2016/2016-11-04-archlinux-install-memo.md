@@ -60,13 +60,13 @@ cfdisk /dev/sda
 
 以下の手順のように作成した。
 
-1.  [Delete] で既存パーティションを全消去
-1.  [New] でパーティション作成、 [Type] で種別を設定
+1. [Delete] で既存パーティションを全消去
+1. [New] でパーティション作成、 [Type] で種別を設定
   + /dev/sda1: 200M, Primary, Linux (83)
   + /dev/sda2: 2G, Primary, Linux Swap / Solaris (82)
   + /dev/sda3: 27.6G(残り), Primary, Linux (83)
-1.  [Write]
-1.  [Quit]
+1. [Write]
+1. [Quit]
 
 
 できたら、作成したパーティションにファイルシステムを作成。

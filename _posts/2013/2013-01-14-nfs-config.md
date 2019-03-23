@@ -105,9 +105,9 @@ Fedora (サーバー) の */dir/path* を、Arch Linux (クライアント) の 
 
 # 参考サイト
 
-+   [Fedora/nfsの設定 - Welcome to Life with Linux][cite-life-with-linux]
-+   [brief tech notes: nfs configuration on fedora 16][cite-brief-tech-notes]
-+   [nfs設定 - とみぞーノート][cite-tomizoo]
++ [Fedora/nfsの設定 - Welcome to Life with Linux][cite-life-with-linux]
++ [brief tech notes: nfs configuration on fedora 16][cite-brief-tech-notes]
++ [nfs設定 - とみぞーノート][cite-tomizoo]
 
 
 

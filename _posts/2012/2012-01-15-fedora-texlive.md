@@ -36,7 +36,7 @@ sudo yum install texlive-east-asian
 ```
 
 
-すると、 
+すると、
 
 > パッケージ texlive-east-asian は texlive-collection-langcjk によって不要になりました。代わりにtexlive-collection-langcjk-2011-3.20111207\_r24786.svn24462.fc16.noarchのインストールを試みています。
 

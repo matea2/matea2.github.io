@@ -94,7 +94,7 @@ yaourt -S ttf-mplus
 ```
 
 
-ただ mozc は 
+ただ mozc は
 
 > ERROR: is not available for the 'i686' architecture.
 
