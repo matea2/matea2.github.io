@@ -2,6 +2,8 @@
 markdown: kramdown
 encoding: utf-8
 
+excerpt_separator: <!-- more -->
+
 # jekyll-seo-tag
 title: matea2 blog
 description: matea2のブログ
@@ -20,8 +22,10 @@ minima:
 
 plugins:
   - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
 
 # jekyll-paginate
 paginate: 5
+paginate: 10
 paginate_path: /blog/page:num/

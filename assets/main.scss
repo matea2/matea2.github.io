@@ -19,12 +19,17 @@
 	margin-top: 3em;
 }
 
-.post-content ul,ol {
+.post-content ul,ol,dl,pre {
 	margin-bottom: 3em;
 }
 
 .post-content div.highlight {
 	margin-bottom: 3em;
+}
+
+.post-content img {
+	margin-bottom: 3em;
+	max-width: 100%;
 }
 
 
@@ -36,11 +41,18 @@
 	text-align: end;
 }
 
+.footnotes {
+	margin-top:5em;
+}
+
+.footnotes:before {
+	content: "footnotes";
+}
+
 .pagination {
 	text-align:center;
 	margin-top:5em;
 }
-
 
 .home_comment {
 	color: grey;
@@ -48,5 +60,63 @@
 	margin-bottom: 3em;
 }
 
-.home_post {
+
+.gist {
+	margin-bottom: 3em;
+}
+
+.gist table tr:first-child td {
+	padding-top: 8px !important;
+}
+
+.gist table tr:last-child td {
+	padding-bottom: 8px !important;
+}
+
+.gist table tr {
+	background-color: white;
+}
+
+.gist .blob-num {
+	border-style: none;
+}
+
+.gist .gist-meta {
+	display: none;
+}
+
+.gist:hover .gist-meta {
+	display: block;
+}
+
+.gist * {
+	font-size: 100% !important;
+	font-family: monospace !important;
+}
+
+
+
+em {
+	font-style: normal;
+	font-weight: bold;
+}
+
+dt {
+	font-weight: bold;
+}
+
+h1#使用環境 {
+	margin-top: 5em;
+	font-size: 90%;
+	font-weight: bold;
+}
+
+h1#使用環境 ~ * {
+	font-size: 80%;
+}
+
+h1#参考サイト {
+	margin-top: 2em;
+	font-size: 90%;
+	font-weight: bold;
 }
