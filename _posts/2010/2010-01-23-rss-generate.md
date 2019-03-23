@@ -21,4 +21,4 @@ date: 2010-01-23T17:39:00+09:00
 [なんでもRSS]: http://blogwatcher.pi.titech.ac.jp/nandemorss/
 
 [^note-2010-07-11]: なんでもRSSの利用を中止した。 ([記事][note-2010-07-11 link])
-[note-2010-07-11 link]: {{ site.baseurl }}{% post_url 2010/2010-07-11-nandemo-rss %}
+[note-2010-07-11 link]: {{ site.baseurl }}{% post_url /2010/2010-07-11-nandemo-rss %}

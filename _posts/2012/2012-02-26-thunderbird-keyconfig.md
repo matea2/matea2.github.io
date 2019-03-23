@@ -64,11 +64,11 @@ Firefoxと同じ拡張が使えるので、 [Dorando] ってとこからダウ�
 
 
 [Dorando]: http://mozilla.dorando.at/readme.html
-[Firefoxのとき]: {{ site.baseurl }}{% post_url 2012/2012-01-29-firefox-keyconfig %}
+[Firefoxのとき]: {{ site.baseurl }}{% post_url /2012/2012-01-29-firefox-keyconfig %}
 
 [cite-mozillazine]: http://kb.mozillazine.org/Keyconfig_extension
 [cite-mozillazine-thunderbird]: http://kb.mozillazine.org/Keyconfig_extension:_Thunderbird
 [cite-teramako]: http://d.hatena.ne.jp/teramako/20070427/p1
 
 [^note-2012-07-01]: 追加の設定を書いた。([記事][note-2012-07-01 link])
-[note-2012-07-01 link]: {{ site.baseurl }}{% post_url 2012/2012-07-01-thunderbird-keyconfig %}
+[note-2012-07-01 link]: {{ site.baseurl }}{% post_url /2012/2012-07-01-thunderbird-keyconfig %}

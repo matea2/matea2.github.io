@@ -54,4 +54,4 @@ awesome ではデフォルトでは右上の方に通知が表示される。私
 [awesome naughty after link]: https://photos.google.com/share/AF1QipM61Sojj33aL2NzOBDKcHQ7nqOGa9Sx-rnAgQzkFDsR5ArblePoauMBiJja8EXM2w/photo/AF1QipNpUNZPhoiCTAZcq9d4nhIpo399vWgoooJ_BKqh?key=aHlScGdUYWN2RWNJUVF4RUt3QWxPV1NreHRRVjBR
 
 [^note-2011-09-17]: awesome naughty の設定を修正した。([記事][note-2011-09-17 link])
-[note-2011-09-17 link]: {{ site.baseurl }}{% post_url 2011/2011-09-17-awesome-naughty %}
+[note-2011-09-17 link]: {{ site.baseurl }}{% post_url /2011/2011-09-17-awesome-naughty %}

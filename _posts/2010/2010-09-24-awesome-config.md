@@ -66,4 +66,4 @@ date: 2010-09-24T23:32:00+09:00
 [awesome desktop screenshot link]: https://photos.google.com/share/AF1QipPrLBDcZF_TXBBXT1y3DOqjEB3-WIfONpsykV92y2vItFEQZQUPJB_z9I0HxCYx5A/photo/AF1QipOxlby5xejGPprDwjm4nrRgkdB9UW7VZt_ZSRib?key=bWloVzhwbFo5d3FPUHpCME1Gb1ZZOU00S3hXamRB
 
 [^note-2010-10-02]: 時計の設定を修正した。([記事][note-2010-10-02 link])
-[note-2010-10-02 link]: {{ site.baseurl }}{% post_url 2010/2010-10-02-awesome-textclock %}
+[note-2010-10-02 link]: {{ site.baseurl }}{% post_url /2010/2010-10-02-awesome-textclock %}

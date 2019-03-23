@@ -36,7 +36,7 @@ date: 2011-09-17T20:10:00+09:00
 
 
 
-[以前]: {{ site.baseurl }}{% post_url 2011/2011-01-02-awesome-notification %}
+[以前]: {{ site.baseurl }}{% post_url /2011/2011-01-02-awesome-notification %}
 [朝日放送｜スイートプリキュア♪]: http://asahi.co.jp/precure/
 
 [naughty image (before)]: https://lh3.googleusercontent.com/6dEP5HPF89_FkN5-dSAs3H06QlOeekZJqoh4pVAz1FlW2yFgpn8zihjrYS5WUb0G3XR7wEiVRLPuXn_ctGiE0Dz_fvfhN5pH0-aVa76awfLSgDSKWZn94BPobhbw3DuFmYyCTk6TEA=w500

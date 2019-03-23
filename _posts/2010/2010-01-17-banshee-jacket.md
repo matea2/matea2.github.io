@@ -23,4 +23,4 @@ date: 2010-01-17T15:31:00+09:00
 [banshee screenshot link]: https://photos.google.com/share/AF1QipMVa2Eaa9VOOJT2xmAPbReHf9YZWqPWEzmKYdWCoFGqL6YNFu5tHgC-0AChlmM4dg/photo/AF1QipMG4ugFLXmVSx6WI31QtMzlhz9cWlm7sUOa1mRU?key=cDlYdUk2VlVGTS1MZ0c5QVRkZUN0OVBRT1FnMkdR
 
 [^note-2010-05-09]: Banshee 1.6.0 で日本語名ファイルのジャケット画像も正しく表示できるようになった。 ([記事][note-2010-05-09 link])
-[note-2010-05-09 link]: {{ site.baseurl }}{% post_url 2010/2010-05-09-banshee-update %}
+[note-2010-05-09 link]: {{ site.baseurl }}{% post_url /2010/2010-05-09-banshee-update %}

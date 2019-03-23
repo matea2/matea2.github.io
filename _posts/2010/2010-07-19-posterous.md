@@ -46,4 +46,4 @@ Posterousは、メールを送るだけでいろいろなところにポスト�
 [posterous address list link]: https://photos.google.com/share/AF1QipOTuIp-ckEfoOJz4ZKdVnRuq5z6VLKYmRTewquSG7MQFHbSMaCQqlCESZoWMkInDQ/photo/AF1QipPf0I9LpR7kyjGv3F8nNH2F7P0uG6-DM4wQWe-J?key=R0dVUjJLZFBWTzRCVEQzSFNoclU2LXBHdXp5YVdB
 
 [^note-2010-08-20]: タイムゾーンの設定ができるようになった。([記事][note-2010-08-20 link])
-[note-2010-08-20 link]: {{ site.baseurl }}{% post_url 2010/2010-08-20-posterous-timezone %}
+[note-2010-08-20 link]: {{ site.baseurl }}{% post_url /2010/2010-08-20-posterous-timezone %}

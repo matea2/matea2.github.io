@@ -66,4 +66,4 @@ sudo nm-applet &
 [nm applet config link]: https://photos.google.com/share/AF1QipO3NgFWOxmpeVU_SNMD99LJN7lYKiV_l7tdb_cxphAqctxkx5weMLeNhBG6Sv5lKQ/photo/AF1QipMZDGaxEeZAMd17TVLs8y8Qi7k3hmMv7sx7Pl2O?key=UDM2SlNaOU81SGV0WVNxZUNuaWhzeHN0dXBBS3l3
 
 [^note-2011-01-08]: WLI-UC-G300N の設定はたぶん不要になった。([記事][note-2011-01-08 link])
-[note-2011-01-08 link]: {{ site.baseurl }}{% post_url 2011/2011-01-08-fedora14-wli-uc-g300n %}
+[note-2011-01-08 link]: {{ site.baseurl }}{% post_url /2011/2011-01-08-fedora14-wli-uc-g300n %}

@@ -23,4 +23,4 @@ Fedora 12 にしてから、USBスキャナの *CanoScan LiDE 40* が使えな�
 
 
 [^note-2010-06-07]: ルールの記述を修正した。 ([記事][note-2010-06-07 link])
-[note-2010-06-07 link]: {{ base.url }}{% post_url 2010/2010-06-07-udev-rules %}
+[note-2010-06-07 link]: {{ base.url }}{% post_url /2010/2010-06-07-udev-rules %}

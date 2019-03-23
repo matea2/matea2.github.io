@@ -93,4 +93,4 @@ date: 2012-01-29T20:45:00+09:00
 [keyconfig entry link]: https://photos.google.com/share/AF1QipOmY35aXTzl5slip3amqemDkBBnpltllB_g2OyUMhAIIR-EROHSMCTLg_igu84NAQ/photo/AF1QipNEt1HbFdJ9Jpec0hCAnLoHNPpW_1AbykBjaJ82?key=dWpuX1BUbHYzamdGcXpaVTl4cktoUDJkdzNDN1N3
 
 [^note-2012-07-01]: 追加の設定を書いた。([記事][note-2012-07-01 link])
-[note-2012-07-01 link]: {{ site.baseurl }}{% post_url 2012/2012-07-01-firefox-keyconfig %}
+[note-2012-07-01 link]: {{ site.baseurl }}{% post_url /2012/2012-07-01-firefox-keyconfig %}

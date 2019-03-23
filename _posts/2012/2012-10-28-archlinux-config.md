@@ -206,7 +206,7 @@ gtk-3系は *~/.config/gtk-3.0/settings.ini* に記述。テーマとアイコ�
 
 
 
-[Ubuntuと同じ方法]: {{ site.baseurl }}{% post_url 2011/2011-10-15-ubuntu-wireless-lan %}
+[Ubuntuと同じ方法]: {{ site.baseurl }}{% post_url /2011/2011-10-15-ubuntu-wireless-lan %}
 
 [cite-pacman-wiki]: https://wiki.archlinux.org/index.php/Pacman_%28%E6%97%A5%E6%9C%AC%E8%AA%9E%29
 [cite-grub-wiki]: https://wiki.archlinux.org/index.php/GRUB2
