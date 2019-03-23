@@ -1,12 +1,40 @@
 ---
 layout: post
 categories: blog
-tags: tag1 tag2 tag3
+tags: 
 title: ブログのテンプレート
 ---
 
-# 本文
+
+summary
+
+<!-- more -->
+
+details
+
+[link]
+
+[![image]][image link]
+
+[^note-date]
+
 
 # 使用環境
 
++ 
++ 
+
 # 参考サイト
+
++ 
++ 
+
+
+
+[link]: {{ site.baseurl }}{% post_url filename %}
+
+[image]: 
+[image link]: 
+
+[^note-date]: [note-date link]
+[note-date link]: 
