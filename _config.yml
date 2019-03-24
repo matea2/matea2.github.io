@@ -3,6 +3,7 @@ markdown: kramdown
 encoding: utf-8
 
 excerpt_separator: <!-- more -->
+google_analytics: UA-20500320-1
 
 # jekyll-seo-tag
 title: matea2 blog
