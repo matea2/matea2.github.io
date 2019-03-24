@@ -12,12 +12,12 @@ awesome 小ネタ。ターミナルとかウィンドウのサイズ調整が細
 [![size hints honor true]][size hints honor true link]
 
 
+<!-- more -->
+
 そんなときは、プロパティに *size_hints_honor = false* と書いておくと隙間なく並ぶ。ただ隙間がウィンドウ外からウィンドウ内に移動しただけなので、どっちが良いかはお好みで。
 
 [![size hints honor false]][size hints honor false link]
 
-
-<!-- more -->
 
 設定は、 *~/.config/awesome/rc.lua* のRulesのところを修正する。
 

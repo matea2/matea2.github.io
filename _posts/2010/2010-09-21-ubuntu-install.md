@@ -6,6 +6,7 @@ title: もらったノートパソコンにUbuntu入れてみた
 date: 2010-09-21T12:36:00+09:00
 ---
 
+
 もらったノートパソコンに [Ubuntu] 入れてみた。 Ubuntu 10.10 beta をインストール。
 
 <!-- more -->
@@ -13,7 +14,6 @@ date: 2010-09-21T12:36:00+09:00
 Desktop版とかNetbook版とか試したけど途中で止まってしまう。何度も失敗して最後にAlternate版でインストール成功。低スペック機はAlternate版使うと良いなんて知らなかった。
 
 [![pc photo 1]][pc photo 1 link]
-
 
 [![pc photo 2]][pc photo 2 link]
 

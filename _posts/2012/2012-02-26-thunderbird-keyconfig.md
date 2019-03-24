@@ -11,7 +11,7 @@ Thunderbirdにも keyconfig を設定してみた。
 
 <!-- more -->
 
-Firefoxと同じ拡張が使えるので、 [Dorando] ってとこからダウンロードしてインストール。
+Firefoxと同じ拡張が使えるので、 [Dorando] ってとこからダウンロードしてインストール[^note-2012-07-01]。
 
 ページの遷移は[Firefoxのとき]と同様に設定した。
 

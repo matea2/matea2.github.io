@@ -11,6 +11,7 @@ date: 2012-01-15T18:29:00+09:00
 
 <!-- more -->
 
+
 # インストール
 
 yumで標準のfedoraリポジトリを調べてみたらtexliveのバージョンは2007だった。2011はutf-8が使えるらしいし、新しくtexliveのリポジトリを [fedorapeople] のとこから追加。Fedora 16なので packages.fc16 から。
@@ -38,7 +39,7 @@ sudo yum install texlive-east-asian
 
 すると、
 
-> パッケージ texlive-east-asian は texlive-collection-langcjk によって不要になりました。代わりにtexlive-collection-langcjk-2011-3.20111207\_r24786.svn24462.fc16.noarchのインストールを試みています。
+> パッケージ texlive-east-asian は texlive-collection-langcjk によって不要になりました。代わりに texlive-collection-langcjk-2011-3.20111207\_r24786.svn24462.fc16.noarch のインストールを試みています。
 
 と言われた。という事で texlive-collection-langcjk をインストール。
 

@@ -10,6 +10,7 @@ Lenovo g570 に、 Arch Linux を再インストールしたので手順をメ�
 
 <!-- more -->
 
+
 # インストールUSB作成
 
 まずは、インストール用のUSBを作成する。 Arch Linux の[ダウンロード]ページから、ISOイメージと、検証用の md5sum をダウンロード。手っ取り早く *HTTP Direct Downloads* から、 *Japan jaist.ac.jp* 選んでダウンロードした。
@@ -219,9 +220,7 @@ passwd username
 
 `visudo` で wheel に権限を与える。
 
-```
-%wheel ALL=(ALL) ALL
-```
+{% gist matea2/9e2caeb24ed4a38b59ded6451680a06d sudoers %}
 
 
 これで sudo できるようになるので、 root をログアウト。
@@ -323,6 +322,7 @@ sudo pacman -Syu
 + libreoffice-fresh-ja
 + gimp
 + vlc
+
 
 
 [ダウンロード]: http://www.archlinux.org/download

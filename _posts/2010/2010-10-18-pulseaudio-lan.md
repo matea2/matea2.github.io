@@ -96,4 +96,3 @@ GUIの場合は *padechooser* から指定できる。
 
 [padechooser dialog]: https://lh3.googleusercontent.com/9kbOp8LaDqrOVpArrlTyIEfN1r1-SsG0HIKJ5MvdRVx8gJB6_MfWEwUAhQeJdUGetnxr6QnzAGDUl8rM7J1V4pL5xhHtJnmD5Cm_UGy4GVOd8Rz-dQwFfsfsW--Vq1nFBH2lipWjHg=w300
 [padechooser dialog link]: https://photos.google.com/share/AF1QipNhx761MEoZ8Cp5fo2BHgD-atKWWY3Yvajv2V80RlEpF3IhiePNcqDNVDgYUh7qSQ/photo/AF1QipMnjE2Cq7jkgXKrUA-Rw5qSATF-ipQWjAJebAJq?key=WlNVSEQzS01tdThtZ094d0FrQUVKSFBTeXFNU0R3
-

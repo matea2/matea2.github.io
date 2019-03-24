@@ -19,6 +19,7 @@ date: 2010-09-26T17:50:00+09:00
 xinput --list
 ```
 
+
 Virtual core pointer と Virtual core keybord の一覧がずらっとでてきた。pointerを見てみて、おそらく *AlpsPS/2 ALPS GlidePoint* ってのがタッチパッドだろうと判断。もう一段階詳しく調べる。
 
 ```

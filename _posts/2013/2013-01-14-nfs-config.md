@@ -13,6 +13,7 @@ Fedora (サーバー) の */dir/path* を、Arch Linux (クライアント) の 
 
 <!-- more -->
 
+
 # サーバー側の設定
 
 サーバー側のPC、Fedoraでの設定。まずはNFSをインストール。

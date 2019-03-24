@@ -33,7 +33,7 @@ file quote_colors-0.3-tb+sm.xpi
 ```
 
 
-> quote_colors-0.3-tb+sm.xpi: Zip archive data, at least v2.0 to extract
+> quote\_colors-0.3-tb+sm.xpi: Zip archive data, at least v2.0 to extract
 
 xpiの実態はZipファイルらしく、解凍すると中身が出てくる。 *quote_colors-0.3-tb+sm.xpi* を適当なディレクトリに入れて、 `unzip` 。
 
@@ -42,7 +42,7 @@ unzip quote_colors-0.3-tb+sm.xpi
 ```
 
 
-> Archive: quote_colors-0.3-tb+sm.xpi  
+> Archive: quote\_colors-0.3-tb+sm.xpi  
 > &nbsp;&nbsp;&nbsp;&nbsp;inflating: chrome.manifest  
 > &nbsp;&nbsp;&nbsp;&nbsp;inflating: chrome/quotecolors.jar  
 > &nbsp;&nbsp;&nbsp;&nbsp;inflating: defaults/preferences/quotecolors.js  
